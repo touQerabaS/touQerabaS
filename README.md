@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @touQerabaS
 - 👀 I’m interested in Machine Learning, DeepLearning. Computer Vision, NLP
-- 🌱 I’m currently learning YOLO
+- 🌱 I’m currently learning GPT
 - 💞️ I’m looking to collaborate on BERT
 - 📫 How to reach me 
 - Email: abastouqer@gmail.com
